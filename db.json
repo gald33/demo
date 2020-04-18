@@ -1,6 +1,6 @@
 {
   "items": [
-    { "id": 1, "desc": "Bottle1604", "low": "low_number",  "high": "high_number" },
+    { "id": 1, "desc": "Bottle", "high": "50", "low": "0", },
     { "id": 2, "title": "Post 1835" },
     { "id": 3, "title": "Post 3" }
   ],

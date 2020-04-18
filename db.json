@@ -1,6 +1,6 @@
 {
   "items": [
-    { "desc": "Bottle", "ask": "50", },
+    { "desc": "Bottle",},
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],

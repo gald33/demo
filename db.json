@@ -1,5 +1,13 @@
 {
   "items": [
+	{
+              "desc": "Bottle",
+              "auction": {
+                "ask": 50,
+                "bid": 0,
+                "newBid": 0
+              },
+        },
     { "id": 1535, "title": "Post 12345" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }

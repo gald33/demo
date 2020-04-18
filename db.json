@@ -1,6 +1,6 @@
 {
   "items": [
-    { "id": 1, "desc": "Bottle", "high": "55", "low": "0", "url": "../../assets/bottle.jpg" },
+    { "id": 1, "desc": "Bottle", "high": "55", "low": "0", "url": "https://raw.githubusercontent.com/gald33/demo/master/pics/bottle.jpg" },
     { "id": 2, "title": "Post 1835" },
     { "id": 3, "title": "Post 3" }
   ],

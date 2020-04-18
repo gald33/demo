@@ -1,6 +1,6 @@
 {
   "items": [
-    { "id": 1546, "desc": {"main": "Post 12345" } },
+    { "id": 1554, "desc": "Post 567", "extra": "12345" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
